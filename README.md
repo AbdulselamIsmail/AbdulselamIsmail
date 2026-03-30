@@ -39,14 +39,14 @@ I’m passionate about **cybersecurity, threat detection, and applied machine le
 
 ## ⚡ Skills  
 - **Programming:** Python, C#, Java  
-- **Cybersecurity Tools:** Wireshark, FakeNet, Procmon, Regshot, Splunk, Wazuh  
+- **Cybersecurity Tools:** Metasploit-Framework, Nmağ, Wireshark, FakeNet, Procmon, Regshot, Splunk, Wazuh  
 - **Machine Learning:** scikit-learn, pandas, NumPy, Jupyter  
 - **Other:** Networking fundamentals, Windows/Linux system basics  
 
 ---
 
 ## 🌱 What’s Next  
-- Preparing for **Cisco CyberOps Associate**  
+- Preparing for **INE's eJPT**  
 - Expanding malware analysis & detection engineering skills  
 ---
 
