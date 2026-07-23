@@ -7,13 +7,14 @@ I’m passionate about **cybersecurity, threat detection, and applied machine le
 ---
 
 ##  About Me  
--  Goal: Become a **SOC Analyst / Threat Hunter**  
+-  Goal: Become a Cyber Security Specialist  
 -  Background: Networking, operating systems, log analysis, and malware analysis basics  
 -  Currently Learning:  
   - Threat detection & SIEM (Wazuh, Splunk)  
   - Malware analysis (static & dynamic)  
   - Machine Learning for security (phishing detection, anomaly detection)  
-  - Blue Team practices & SOC workflows  
+  - Blue Team practices & SOC workflows
+  - Penetration Testing and Red Teaming  
   
 ---
 
