@@ -1,6 +1,6 @@
 # Hi there , I'm Abdülselam İsmail  
 
- **Aspiring SOC Analyst | Blue Team Enthusiast | Machine Learning Explorer**  
+ **Cyber Security Enthusiast | Machine Learning Explorer | Software Developer**  
 
 I’m passionate about **cybersecurity, threat detection, and applied machine learning**. Currently, I’m building hands-on skills in SOC operations, malware analysis, and blue team tools to prepare for my first cybersecurity role.  
 
